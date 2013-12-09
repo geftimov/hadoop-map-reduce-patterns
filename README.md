@@ -29,5 +29,7 @@ Example run in each individual pattern example.
 
 About Me
 ---------
-    Georgi Kalinov Eftimov
-    jokatavr@gmail.com
+```
+Georgi Kalinov Eftimov
+jokatavr@gmail.com
+```
