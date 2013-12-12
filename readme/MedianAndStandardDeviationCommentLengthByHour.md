@@ -1,0 +1,44 @@
+## MedianAndStandardDeviationCommentLengthByHour
+### Description
+Given a list of user’s comments, determine the median and standard deviation of comment lengths per hour of day.
+
+
+
+### Input
+```
+<row Id="1" 
+PostId="7" 
+Score="2" 
+Text="Just ask this @Robert how annoying this can be..." 
+CreationDate="2010-06-30T19:29:03.500" 
+UserId="17" />
+```
+### Output
+```
+//hour  stdDev   median   
+0	148.0	125.90376
+1	186.0	140.12857
+2	208.0	142.7814
+3	226.0	148.25664
+4	238.0	150.70624
+5	249.0	153.59439
+6	257.0	155.8286
+7	262.0	156.6707
+8	265.0	157.20583
+9	269.0	158.45905
+10	273.0	160.41747
+11	276.0	160.71024
+12	279.0	161.76524
+13	281.0	163.428
+14	287.0	164.78505
+15	291.0	165.9306
+16	292.0	166.58936
+17	294.0	166.99599
+18	294.0	167.31934
+19	296.0	167.96268
+20	297.0	168.2424
+21	298.0	168.38692
+22	298.5	168.44954
+23	300.0	169.13745
+
+```
