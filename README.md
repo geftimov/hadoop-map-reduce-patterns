@@ -26,17 +26,12 @@ Example run in each individual pattern example.
 >1. [CommentWordCount](https://github.com/geftimov/MapReduce/tree/master/readme/CommentWordCount.md)
 >2. [MinMaxCount](https://github.com/geftimov/MapReduce/tree/master/readme/MinMaxCount.md)
 >3. [Average](https://github.com/geftimov/MapReduce/tree/master/readme/Average.md)
-<<<<<<< HEAD
->4. [MedianStdDev](https://github.com/geftimov/MapReduce/tree/master/readme/MedianStdDev.md)
->5. [MedianAndStandardDeviationCommentLengthByHour](https://github.com/geftimov/MapReduce/tree/master/readme/MedianAndStandardDeviationCommentLengthByHour.md)
-2.  ###Inverted Index Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/InvertedIndexSummarization.md)
->1. [WikipediaExtractor](https://github.com/geftimov/MapReduce/tree/master/readme/WikipediaExtractor.md)
-=======
 >4. [MedianStdDev](https://github.com/geftimov/MapReduce/tree/master/readme/MedianStdDev.md) (With In-Memory Map)
 >5. [MedianAndStandardDeviationCommentLengthByHour](https://github.com/geftimov/MapReduce/tree/master/readme/MedianAndStandardDeviationCommentLengthByHour.md) (Without the Map, more efficient)
 
->>>>>>> 9a89c874b470484fbdf3c24cb1464b0983e0164a
-    
+###2.  Inverted Index Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/InvertedIndexSummarization.md)
+>1. [WikipediaExtractor](https://github.com/geftimov/MapReduce/tree/master/readme/WikipediaExtractor.md)
+
 
 About Me
 ---------
