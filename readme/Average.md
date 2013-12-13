@@ -1,4 +1,4 @@
-## MinMaxCount
+## Average
 ### Description
 Given a list of user’s comments, determine the average comment length per hour of day.
 

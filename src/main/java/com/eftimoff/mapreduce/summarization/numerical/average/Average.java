@@ -18,6 +18,7 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 import org.apache.hadoop.util.Tool;
+import org.apache.hadoop.util.ToolRunner;
 
 import com.eftimoff.mapreduce.utils.MRDPUtils;
 
@@ -73,6 +74,11 @@ public class Average extends Configured implements Tool {
 			result.setAverage(sum / count);
 			context.write(key, result);
 		}
+	}
+
+	public static void main(String[] args) throws Exception {
+		int res = ToolRunner.run(new Configuration(), new Average(), args);
+		System.exit(res);
 	}
 
 	@Override

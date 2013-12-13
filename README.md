@@ -27,7 +27,8 @@ Example run in each individual pattern example.
 >3. [Average](https://github.com/geftimov/MapReduce/tree/master/readme/Average.md)
 >4. [MedianStdDev](https://github.com/geftimov/MapReduce/tree/master/readme/MedianStdDev.md)
 >5. [MedianAndStandardDeviationCommentLengthByHour](https://github.com/geftimov/MapReduce/tree/master/readme/MedianAndStandardDeviationCommentLengthByHour.md)
-
+2.  ###Inverted Index Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/InvertedIndexSummarization.md)
+>1. [WikipediaExtractor](https://github.com/geftimov/MapReduce/tree/master/readme/WikipediaExtractor.md)
     
 
 About Me
