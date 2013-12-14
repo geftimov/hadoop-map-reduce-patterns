@@ -36,7 +36,7 @@ Example run in each individual pattern example.
 
 #### Filtering Patterns 
 >#####1. Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Filtering.md)
->
+>*   [DistributedGrep](https://github.com/geftimov/MapReduce/tree/master/readme/DistributedGrep.md)
 >
 >
 
