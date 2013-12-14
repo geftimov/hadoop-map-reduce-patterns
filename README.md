@@ -20,26 +20,25 @@ mvn clean install
 ```
 Example run in each individual pattern example.
 
-## Summarization Patterns 
-###1. Numerical Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/NumericalSummarization.md)
+#### Summarization Patterns 
+>#####1. Numerical Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/NumericalSummarization.md)
+>*   [CommentWordCount](https://github.com/geftimov/MapReduce/tree/master/readme/CommentWordCount.md)
+>*   [MinMaxCount](https://github.com/geftimov/MapReduce/tree/master/readme/MinMaxCount.md)
+>*   [Average](https://github.com/geftimov/MapReduce/tree/master/readme/Average.md)
+>*   [MedianStdDev](https://github.com/geftimov/MapReduce/tree/master/readme/MedianStdDev.md) (With In-Memory Map)
+>*   [MedianAndStandardDeviationCommentLengthByHour](https://github.com/geftimov/MapReduce/tree/master/readme/MedianAndStandardDeviationCommentLengthByHour.md) (Without the Map, more efficient)
+>
+>#####2.  Inverted Index Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/InvertedIndexSummarization.md)
+>*   [WikipediaExtractor](https://github.com/geftimov/MapReduce/tree/master/readme/WikipediaExtractor.md)
+>
+>#####3.  Counting with Counters [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CountingCounters.md)
+>*   [CountNumUsersByState](https://github.com/geftimov/MapReduce/tree/master/readme/CountNumUsersByState.md)
 
->1. [CommentWordCount](https://github.com/geftimov/MapReduce/tree/master/readme/CommentWordCount.md)
->2. [MinMaxCount](https://github.com/geftimov/MapReduce/tree/master/readme/MinMaxCount.md)
->3. [Average](https://github.com/geftimov/MapReduce/tree/master/readme/Average.md)
->4. [MedianStdDev](https://github.com/geftimov/MapReduce/tree/master/readme/MedianStdDev.md) (With In-Memory Map)
->5. [MedianAndStandardDeviationCommentLengthByHour](https://github.com/geftimov/MapReduce/tree/master/readme/MedianAndStandardDeviationCommentLengthByHour.md) (Without the Map, more efficient)
-
-###2.  Inverted Index Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/InvertedIndexSummarization.md)
->1. [WikipediaExtractor](https://github.com/geftimov/MapReduce/tree/master/readme/WikipediaExtractor.md)
-
-###3.  Counting with Counters [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CountingCounters.md)
->1. [CountNumUsersByState](https://github.com/geftimov/MapReduce/tree/master/readme/CountNumUsersByState.md)
-
-## Filtering Patterns 
-###1. Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Filtering.md)
-
-
-
+#### Filtering Patterns 
+>#####1. Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Filtering.md)
+>
+>
+>
 
 About Me
 ---------
