@@ -32,6 +32,8 @@ Example run in each individual pattern example.
 ###2.  Inverted Index Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/InvertedIndexSummarization.md)
 >1. [WikipediaExtractor](https://github.com/geftimov/MapReduce/tree/master/readme/WikipediaExtractor.md)
 
+###3.  Counting with Counters [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CountingCounters.md)
+>1. [CountNumUsersByState](https://github.com/geftimov/MapReduce/tree/master/readme/CountNumUsersByState.md)
 
 About Me
 ---------
