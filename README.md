@@ -35,6 +35,12 @@ Example run in each individual pattern example.
 ###3.  Counting with Counters [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CountingCounters.md)
 >1. [CountNumUsersByState](https://github.com/geftimov/MapReduce/tree/master/readme/CountNumUsersByState.md)
 
+## Filtering Patterns 
+###1. Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Filtering.md)
+
+
+
+
 About Me
 ---------
 ```
