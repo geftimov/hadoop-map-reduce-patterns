@@ -43,7 +43,8 @@ Example run in each individual pattern example.
 
 >#####3. Top Ten [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/TopTen.md)
 >*   [TopTenUsersByReputation](https://github.com/geftimov/MapReduce/tree/master/readme/TopTenUsersByReputation.md)
->#####3. Distinct [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Distinct.md)
+
+>#####4. Distinct [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Distinct.md)
 >*   [DistinctUser](https://github.com/geftimov/MapReduce/tree/master/readme/DistinctUser.md)
 >
 >
