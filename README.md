@@ -38,7 +38,9 @@ Example run in each individual pattern example.
 >#####1. Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Filtering.md)
 >*   [DistributedGrep](https://github.com/geftimov/MapReduce/tree/master/readme/DistributedGrep.md)
 >*   [SimpleRandomSampling](https://github.com/geftimov/MapReduce/tree/master/readme/SimpleRandomSampling.md)
+
 >#####2. Bloom Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/BloomFiltering.md)
+
 >#####3. Top Ten [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/TopTen.md)
 >*   [TopTenUsersByReputation](https://github.com/geftimov/MapReduce/tree/master/readme/TopTenUsersByReputation.md)
 >#####3. Distinct [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Distinct.md)
