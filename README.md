@@ -48,10 +48,12 @@ Example run in each individual pattern example.
 >*   [DistinctUser](https://github.com/geftimov/MapReduce/tree/master/readme/DistinctUser.md)
 
 #### Data Organization Patterns 
->#####4. Structured to Hierarchical [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Hierarchical.md)
+>#####1. Structured to Hierarchical [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Hierarchical.md)
 >*   [PostCommentHierarchy](https://github.com/geftimov/MapReduce/tree/master/readme/PostCommentHierarchy.md)
->
+>*   [QuestionAnswerBuilder](https://github.com/geftimov/MapReduce/tree/master/readme/QuestionAnswerBuilder.md)
 
+>#####2. Partitioning [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Partitioning.md)
+>*   [LastAccessDate](https://github.com/geftimov/MapReduce/tree/master/readme/LastAccessDate.md)
 
 About Me
 ---------
