@@ -2,7 +2,6 @@
 ### Description
 Given a list of user’s comments, determine the distinct set of user IDs.
 
-
 ### Input
 ```
 <row Id="1" 
