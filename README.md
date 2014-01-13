@@ -55,9 +55,11 @@ Example run in each individual pattern example.
 >#####2. Partitioning [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Partitioning.md)
 >*   [LastAccessDate](https://github.com/geftimov/MapReduce/tree/master/readme/LastAccessDate.md)
 
->#####2. Binning [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Binning.md)
+>#####3. Binning [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Binning.md)
 >*   [BinningTags](https://github.com/geftimov/MapReduce/tree/master/readme/BinningTags.md)
 
+>#####4. TotalOrderSorting [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/TotalOrderSorting.md)
+>*   [TotalOrderSortingStage](https://github.com/geftimov/MapReduce/tree/master/readme/TotalOrderSortingStage.md)
 
 About Me
 ---------
