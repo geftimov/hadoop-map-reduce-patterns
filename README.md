@@ -61,6 +61,10 @@ Example run in each individual pattern example.
 >#####4. TotalOrderSorting [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/TotalOrderSorting.md)
 >*   [TotalOrderSortingStage](https://github.com/geftimov/MapReduce/tree/master/readme/TotalOrderSortingStage.md)
 
+>#####5. Shuffling [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Shuffling.md)
+>*   [Anonymize](https://github.com/geftimov/MapReduce/tree/master/readme/Anonymize.md)
+
+
 About Me
 ---------
 ```
