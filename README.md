@@ -64,6 +64,9 @@ Example run in each individual pattern example.
 >#####5. Shuffling [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Shuffling.md)
 >*   [Anonymize](https://github.com/geftimov/MapReduce/tree/master/readme/Anonymize.md)
 
+#### Join Patterns 
+>#####1. Reduce Side Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/ReduceSideJoin.md)
+>*   [UserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/UserJoin.md)
 
 About Me
 ---------
