@@ -1,6 +1,7 @@
 MapReduce
 =========
 [![Build Status](https://travis-ci.org/geftimov/MapReduce.png?branch=master)](https://travis-ci.org/geftimov/MapReduce)
+
 Hadoop Map-Reduce Design Patterns
 
 How to use the MapReduce:
