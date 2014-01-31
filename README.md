@@ -67,6 +67,12 @@ Example run in each individual pattern example.
 #### Join Patterns 
 >#####1. Reduce Side Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/ReduceSideJoin.md)
 >*   [UserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/UserJoin.md)
+>*   [UserJoinBloomFilter](https://github.com/geftimov/MapReduce/tree/master/readme/UserJoinBloomFilter.md)
+
+>#####2. Replicated Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/ReplicatedJoin.md)
+>*   [ReplicatedUserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/ReplicatedUserJoin.md)
+
+
 
 About Me
 ---------

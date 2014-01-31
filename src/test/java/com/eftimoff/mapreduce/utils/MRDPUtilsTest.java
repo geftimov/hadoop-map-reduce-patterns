@@ -1,6 +1,6 @@
 package com.eftimoff.mapreduce.utils;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -24,6 +24,36 @@ public class MRDPUtilsTest {
 		mockOutput.put(CommentTag.USERID.toString(), "73");
 
 		assertEquals(mockOutput, MRDPUtils.transformXmlToMap(inputRow));
+	}
+
+	@Test
+	public void testIsNullOrEmptyNull() {
+
+		String inputRow = "<row Id=\"1\" PostId=\"2\" Score=\"4\"" + " Text=\"Sample Test\" "
+				+ "CreationDate=\"2010-08-10T20:47:19.800\" UserId=\"73\" />";
+
+		assertFalse(MRDPUtils.isNullOrEmpty(inputRow));
+	}
+
+	@Test
+	public void testIsNullOrEmptyNotNull() {
+
+		String inputRow = null;
+
+		assertTrue(MRDPUtils.isNullOrEmpty(inputRow));
+	}
+
+	@Test
+	public void testIsNullOrEmpty() {
+
+		String inputRow = "";
+
+		assertTrue(MRDPUtils.isNullOrEmpty(inputRow));
+	}
+
+	@Test
+	public void testIsInteger() throws Exception {
+		assertTrue(MRDPUtils.isInteger("5"));
 	}
 
 }

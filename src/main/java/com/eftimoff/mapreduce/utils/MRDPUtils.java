@@ -14,8 +14,7 @@ public class MRDPUtils {
 	public static Map<String, String> transformXmlToMap(String xml) {
 		Map<String, String> map = new HashMap<String, String>();
 		try {
-			String[] tokens = xml.trim().substring(5, xml.trim().length() - 3)
-					.split("\"");
+			String[] tokens = xml.trim().substring(5, xml.trim().length() - 3).split("\"");
 			for (int i = 0; i < tokens.length; i += 2) {
 				String key = tokens[i].trim();
 				String val;
@@ -42,6 +41,9 @@ public class MRDPUtils {
 	}
 
 	public static boolean isInteger(String str) {
+		if (str == null) {
+			return false;
+		}
 		Matcher is = INTEGER.matcher(str);
 		return is.matches();
 	}
