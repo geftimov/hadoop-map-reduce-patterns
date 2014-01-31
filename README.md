@@ -1,5 +1,6 @@
 MapReduce
 =========
+[![Build Status](https://travis-ci.org/geftimov/MapReduce.png?branch=master)](https://travis-ci.org/geftimov/MapReduce)
 
 Hadoop Map-Reduce Design Patterns
 
@@ -73,6 +74,7 @@ Example run in each individual pattern example.
 >*   [ReplicatedUserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/ReplicatedUserJoin.md)
 
 >#####2. Composite Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeJoin.md)
+>* 
 
 
 About Me
