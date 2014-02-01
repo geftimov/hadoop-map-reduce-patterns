@@ -73,8 +73,12 @@ Example run in each individual pattern example.
 >#####2. Replicated Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/ReplicatedJoin.md)
 >*   [ReplicatedUserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/ReplicatedUserJoin.md)
 
->#####2. Composite Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeJoin.md)
->* 
+>#####3. Composite Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeJoin.md)
+>*   [CompositeUserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeUserJoin.md)
+ 
+>#####4. Composite Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeJoin.md)
+>*   [CompositeUserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeUserJoin.md)
+ 
 
 
 About Me
