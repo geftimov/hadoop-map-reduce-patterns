@@ -76,7 +76,7 @@ Example run in each individual pattern example.
 >#####3. Composite Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeJoin.md)
 >*   [CompositeUserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeUserJoin.md)
  
->#####4. Composite Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeJoin.md)
+>#####4. Cartesian Product [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CartesianProduct.md)
 >*   [CompositeUserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeUserJoin.md)
  
 
