@@ -4,6 +4,7 @@ MapReduce
 
 Hadoop Map-Reduce Design Patterns
 
+
 How to use the MapReduce:
 --------------------------
 
