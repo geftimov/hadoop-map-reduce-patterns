@@ -30,10 +30,10 @@ Example run in each individual pattern example.
 *   [MedianStdDev](https://github.com/geftimov/MapReduce/tree/master/readme/MedianStdDev.md) (With In-Memory Map)
 *   [MedianAndStandardDeviationCommentLengthByHour](https://github.com/geftimov/MapReduce/tree/master/readme/MedianAndStandardDeviationCommentLengthByHour.md) (Without the Map, more efficient)
 
-#####2.  Inverted Index Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/InvertedIndexSummarization.md)
+##### 2.  Inverted Index Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/InvertedIndexSummarization.md)
 *   [WikipediaExtractor](https://github.com/geftimov/MapReduce/tree/master/readme/WikipediaExtractor.md)
 
-#####3.  Counting with Counters [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CountingCounters.md)
+##### 3.  Counting with Counters [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CountingCounters.md)
 *   [CountNumUsersByState](https://github.com/geftimov/MapReduce/tree/master/readme/CountNumUsersByState.md)
 
 #### Filtering Patterns 
