@@ -23,7 +23,7 @@ mvn clean install
 Example run in each individual pattern example.
 
 #### Summarization Patterns 
-#####1. Numerical Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/NumericalSummarization.md)
+##### 1. Numerical Summarization [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/NumericalSummarization.md)
 *   [CommentWordCount](https://github.com/geftimov/MapReduce/tree/master/readme/CommentWordCount.md)
 *   [MinMaxCount](https://github.com/geftimov/MapReduce/tree/master/readme/MinMaxCount.md)
 *   [Average](https://github.com/geftimov/MapReduce/tree/master/readme/Average.md)
@@ -37,47 +37,47 @@ Example run in each individual pattern example.
 *   [CountNumUsersByState](https://github.com/geftimov/MapReduce/tree/master/readme/CountNumUsersByState.md)
 
 #### Filtering Patterns 
-#####1. Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Filtering.md)
+##### 1. Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Filtering.md)
 *   [DistributedGrep](https://github.com/geftimov/MapReduce/tree/master/readme/DistributedGrep.md)
 *   [SimpleRandomSampling](https://github.com/geftimov/MapReduce/tree/master/readme/SimpleRandomSampling.md)
 
-#####2. Bloom Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/BloomFiltering.md)
+##### 2. Bloom Filtering [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/BloomFiltering.md)
 
-#####3. Top Ten [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/TopTen.md)
+##### 3. Top Ten [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/TopTen.md)
 *   [TopTenUsersByReputation](https://github.com/geftimov/MapReduce/tree/master/readme/TopTenUsersByReputation.md)
 
-#####4. Distinct [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Distinct.md)
+##### 4. Distinct [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Distinct.md)
 *   [DistinctUser](https://github.com/geftimov/MapReduce/tree/master/readme/DistinctUser.md)
 
 #### Data Organization Patterns 
-#####1. Structured to Hierarchical [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Hierarchical.md)
+##### 1. Structured to Hierarchical [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Hierarchical.md)
 *   [PostCommentHierarchy](https://github.com/geftimov/MapReduce/tree/master/readme/PostCommentHierarchy.md)
 *   [QuestionAnswerBuilder](https://github.com/geftimov/MapReduce/tree/master/readme/QuestionAnswerBuilder.md)
 
-#####2. Partitioning [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Partitioning.md)
+##### 2. Partitioning [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Partitioning.md)
 *   [LastAccessDate](https://github.com/geftimov/MapReduce/tree/master/readme/LastAccessDate.md)
 
-#####3. Binning [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Binning.md)
+##### 3. Binning [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Binning.md)
 *   [BinningTags](https://github.com/geftimov/MapReduce/tree/master/readme/BinningTags.md)
 
-#####4. TotalOrderSorting [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/TotalOrderSorting.md)
+##### 4. TotalOrderSorting [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/TotalOrderSorting.md)
 *   [TotalOrderSortingStage](https://github.com/geftimov/MapReduce/tree/master/readme/TotalOrderSortingStage.md)
 
-#####5. Shuffling [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Shuffling.md)
+##### 5. Shuffling [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/Shuffling.md)
 *   [Anonymize](https://github.com/geftimov/MapReduce/tree/master/readme/Anonymize.md)
 
 #### Join Patterns 
-#####1. Reduce Side Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/ReduceSideJoin.md)
+##### 1. Reduce Side Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/ReduceSideJoin.md)
 *   [UserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/UserJoin.md)
 *   [UserJoinBloomFilter](https://github.com/geftimov/MapReduce/tree/master/readme/UserJoinBloomFilter.md)
 
-#####2. Replicated Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/ReplicatedJoin.md)
+##### 2. Replicated Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/ReplicatedJoin.md)
 *   [ReplicatedUserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/ReplicatedUserJoin.md)
 
-#####3. Composite Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeJoin.md)
+##### 3. Composite Join [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeJoin.md)
 *   [CompositeUserJoin](https://github.com/geftimov/MapReduce/tree/master/readme/CompositeUserJoin.md)
  
-#####4. Cartesian Product [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CartesianProduct.md)
+##### 4. Cartesian Product [ReadMe](https://github.com/geftimov/MapReduce/tree/master/readme/CartesianProduct.md)
 *   [CartesianCommentComparison](https://github.com/geftimov/MapReduce/tree/master/readme/CartesianCommentComparison.md)
  
 
