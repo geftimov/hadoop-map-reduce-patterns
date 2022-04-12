@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Date;
 import java.util.Map;
-
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;
@@ -21,7 +20,6 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
-import org.apache.log4j.Logger;
 
 import com.eftimoff.mapreduce.utils.MRDPUtils;
 
@@ -32,7 +30,6 @@ public class MedianStdDev extends Configured implements Tool {
 		private IntWritable outCommentLength = new IntWritable();
 		private final static SimpleDateFormat frmt = new SimpleDateFormat(
 				"yyyy-MM-dd'T'HH:mm:ss.SSS");
-		private static Logger logger = Logger.getRootLogger();
 
 		@SuppressWarnings("deprecation")
 		public void map(Object key, Text value, Context context) throws IOException,
@@ -46,7 +43,6 @@ public class MedianStdDev extends Configured implements Tool {
 			if (strDate == null || text == null) {
 				return;
 			}
-			logger.info(strDate + "\t" + text);
 			// get the hour this comment was posted in
 			Date creationDate;
 			try {
